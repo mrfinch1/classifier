@@ -1,2 +1,2 @@
-# s-n-fland-r-c-
+# siniflandirci
 Sklearn kütüphanesindeki sınıflandırıcı kullanımına bir örnektir.
